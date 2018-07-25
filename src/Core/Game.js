@@ -17,6 +17,8 @@ mod({
     * Initializes the Game constructor.
     * * **/
     init : function initGameConstructor(GameObject, Action, Stage) {
+        // @todo REWRITE EVERYTHING IN HASKELL
+        // @description Because JS. Jeez guys.
         /** * *
         * Constructs new Games.
         * @constructor
